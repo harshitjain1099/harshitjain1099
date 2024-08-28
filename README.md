@@ -7,16 +7,16 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ..........
 
--Skills :
-Programming: Python | SQL 
-Database: MySQL 
-Technologies: Machine Learning
-Version Control: GIT | GitHub
-Frameworks: Scikit-Learn 
-Visualization: Matplotlib | Seaborn
-Data Analysis: Pandas | Numpy | Scipy
-Development: Streamlit | Flask
-Data Visualization Tool: Power BI 
+- Skills :
+- Programming: Python | SQL 
+- Database: MySQL 
+- Technologies: Machine Learning
+- Version Control: GIT | GitHub
+- Frameworks: Scikit-Learn 
+- Visualization: Matplotlib | Seaborn
+- Data Analysis: Pandas | Numpy | Scipy
+- Development: Streamlit | Flask
+- Data Visualization Tool: Power BI 
 
 <!---
 harshitjain1099/harshitjain1099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
