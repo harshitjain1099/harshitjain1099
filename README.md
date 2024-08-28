@@ -16,7 +16,16 @@
 - **Visualization:** Matplotlib | Seaborn
 - **Data Analysis:** Pandas | Numpy | Scipy
 - **Development:** Streamlit | Flask
-- **Data Visualization Tool:** Power BI 
+- **Data Visualization Tool:** Power BI
+
+# - GitHub Stats:
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitjain1099)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitjain1099)
+![GitHub Streak](https://streak-stats.demolab.com/?user=harshitjain1099)
+
+
 
 <!---
 harshitjain1099/harshitjain1099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
