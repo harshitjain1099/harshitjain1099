@@ -8,15 +8,15 @@
 - ⚡ Fun fact: ..........
 
 # - Skills :
-- **Programming:** Python | SQL 
-- **Database:** MySQL 
-- **Technologies:** Machine Learning
-- **Version Control:** GIT | GitHub
-- **Frameworks:** Scikit-Learn 
-- **Visualization:** Matplotlib | Seaborn
-- **Data Analysis:** Pandas | Numpy | Scipy
-- **Development:** Streamlit | Flask
-- **Data Visualization Tool:** Power BI
+- **Languages / Databases :** Python |SQL | HTML | CSS
+- **Database Management :** MySQL | SSMS
+- **AI Technologies :** GenAI | NLP | LLMs | Prompt Engineering | Machine Learning | Deep Learning | Langchain | RAG
+- **Data Analysis :** Statistical Analysis | Power BI | Excel | Google Sheets
+- **Libraries :** Tensorflow | Keras | Pytorch | NumPy | Pandas | Matplotlib | Seaborn | Plotly | BeautifulSoup | Scikit-learn
+- **Frameworks :** Flask | Fast API | Streamlit
+- **Version Control :** Git | GitHub
+
+
 
 # - GitHub Stats:
 
