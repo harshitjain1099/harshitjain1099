@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ..........
 
 # - Skills :
-- **Languages / Databases :** Python |SQL | HTML | CSS
+- **Languages / Databases :** Python | SQL | HTML | CSS
 - **Database Management :** MySQL | SSMS
 - **AI Technologies :** GenAI | NLP | LLMs | Prompt Engineering | Machine Learning | Deep Learning | Langchain | RAG
 - **Data Analysis :** Statistical Analysis | Power BI | Excel | Google Sheets
